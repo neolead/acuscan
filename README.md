@@ -137,6 +137,7 @@ python3 scanner.py -upuz /path/to/updatedbd_VERSION.tgz
 ### First run
 
 ```
+pip3 install -r reqirements.txt
 python3 scanner.py -acuconvupdate security_251107103.bin
 python3 scanner.py -upuz updatedbd_251107103.tgz
 ```
