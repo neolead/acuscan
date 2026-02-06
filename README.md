@@ -1,4 +1,4 @@
-# acuscan
+# acuscan by neoleads
 
 Python-based web vulnerability scanner utilizing Acunetix vulnerability database.
 
@@ -134,10 +134,15 @@ python3 scanner.py -upuz
 python3 scanner.py -upuz /path/to/updatedbd_VERSION.tgz
 ```
 
-## License
+### First run
 
-MIT
+```
+python3 scanner.py -acuconvupdate security_251107103.bin
+python3 scanner.py -upuz updatedbd_251107103.tgz
+```
 
-## Disclaimer
 
-This tool is for authorized security testing only. Users are responsible for compliance with applicable laws and regulations.
+### Fun
+
+Have it. telegream @neoleads
+
