@@ -1,16 +1,7 @@
 # ACUSCAN by neolead
-<img width="261" height="390" alt="image" src="https://github.com/user-attachments/assets/59f1c51d-45b8-4819-a96a-f6908fd0127e" />
-
 Python-based web vulnerability scanner utilizing Acunetix vulnerability database.
-```
-A – Acquired
-C – Crafted
-U – Unpacked
-S – Scanner
-C – Converted
-A – Acunetix
-N – Nightmare
-```
+<img width="1300" height="1168" alt="image" src="https://github.com/user-attachments/assets/07e844a3-61a6-4611-ac8b-c42886d50145" />
+
 
 ## Overview
 
