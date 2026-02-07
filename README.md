@@ -1,6 +1,15 @@
-# acuscan by neoleads
+# ACUSCAN by neolead
 
 Python-based web vulnerability scanner utilizing Acunetix vulnerability database.
+```
+A – Acquired
+C – Crafted
+U – Unpacked
+S – Scanner
+C – Converted
+A – Acunetix
+N – Nightmare
+```
 
 ## Overview
 
@@ -17,6 +26,15 @@ A Custom implementation for testing and leveraging Acunetix vulnerability databa
 git clone https://github.com/neolead/acuscan
 cd acuscan
 ```
+### First run
+
+```
+pip3 install -r reqirements.txt
+python3 scanner.py -acuconvupdate security_251107103.bin
+python3 scanner.py -upuz updatedbd_251107103.tgz
+python3 scanner.py -u http://testphp.vulnweb.com -ooh testphp.txt
+```
+
 
 ## Usage
 
@@ -132,14 +150,6 @@ python3 scanner.py -upuz
 
 # Update from specific archive
 python3 scanner.py -upuz /path/to/updatedbd_VERSION.tgz
-```
-
-### First run
-
-```
-pip3 install -r reqirements.txt
-python3 scanner.py -acuconvupdate security_251107103.bin
-python3 scanner.py -upuz updatedbd_251107103.tgz
 ```
 
 
