@@ -1,4 +1,5 @@
 # ACUSCAN by neolead
+<img width="261" height="390" alt="image" src="https://github.com/user-attachments/assets/59f1c51d-45b8-4819-a96a-f6908fd0127e" />
 
 Python-based web vulnerability scanner utilizing Acunetix vulnerability database.
 ```
